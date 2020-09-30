@@ -50,7 +50,7 @@
 	padding: 26px 30px;
 }
 .rightnav{
-	/*background-color: violet;*/
+	/*background-color: #RRGGBB;*/
 	width: 30%;
 	/*text-align: right;*/
 	padding: 0 23px;
@@ -65,7 +65,7 @@
 }
 /*navbar styling over*/
 .background{
-	background:rgba(0,0,0,0.7) url('https://cdn.pixabay.com/photo/2015/10/08/19/57/new-york-978265_960_720.jpg');
+	background:rgba(#RRGGBB) url('https://cdn.pixabay.com/photo/2015/10/08/19/57/new-york-978265_960_720.jpg');
 	background-size: cover;
 	background-blend-mode: darken;
 }
